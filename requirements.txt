@@ -5,4 +5,5 @@ matplotlib
 seaborn
 plotly
 scipy
+streamlit_option_menu
 statsmodels
