@@ -1,2 +1,2 @@
 # Hotwinter-PIBamericain
-![preview img](/amerique.png)
+![preview img](/amerique.jpg)
